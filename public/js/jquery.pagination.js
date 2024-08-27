@@ -1,5 +1,5 @@
 (function ($) {
-    /************************************************* charLimit */
+    /************************************************* jauery pagination plugin */
     $.fn.pagination = function (options) {
         // This is the easiest way to have default options.
         var settings = $.extend(
