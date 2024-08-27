@@ -11,7 +11,7 @@
                 size: "", // sm/lg
                 prevText: "הקודם",
                 nextText: "הבא",
-                onDraw: function (currPage, itemsOnPage, e) {},
+                onDraw: function (currPage, itemsOnPag) {},
             },
             options
         );
