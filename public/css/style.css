@@ -1,0 +1,11 @@
+.pagination {
+    margin-bottom: 0;
+}
+
+.pagination .page-ellipsis {
+    margin: 0 0.5em;
+}
+
+.pagination .page-link {
+    user-select: none;
+}
